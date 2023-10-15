@@ -1,6 +1,6 @@
 Olá! Eu sou a Suzana Fernandes e aqui esta o resumo de tudo o que estou aprendendo!
 
-- 🔭Back-end
+- 🔭FullStack
 - 🌱 Estudando python e javascript na OneBitCode
 - 👯 Contate-me no email: Suzana_07@hotmail.com
 - ⚡ Em busca de uma oportunidade de estágio
