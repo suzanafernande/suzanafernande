@@ -20,10 +20,14 @@ Olá! Eu sou a Suzana Fernandes e aqui esta o resumo de tudo o que estou aprende
    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" widht="40"
     </div>
 
+<div> 
+  <a href="https://www.linkedin.com/in/suzana-fernandes-2b8574271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 
 ##
- <img align="center" alt="Caio-HTML" height="30" width="40" src=(https://github.com/suzanafernande/suzanafernande/assets/131921031/6f85bee4-8b77-4a9a-9015-64b98c6c3672)
+ <img align="center" alt="Suzana-HTML" height="30" width="40" src=(https://github.com/suzanafernande/suzanafernande/assets/131921031/6f85bee4-8b77-4a9a-9015-64b98c6c3672)
 
     
 
