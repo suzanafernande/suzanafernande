@@ -5,7 +5,7 @@ Olá! Eu sou a Suzana Fernandes e aqui esta o resumo de tudo o que estou aprende
 - 👯 Contate-me no email: Suzana_07@hotmail.com
 - ⚡ Em busca de uma oportunidade de estágio
 - 💗Ela/Dela
-- 🤠 Curso Análise e Desenvolvimento de Sistemas na IBMR
+- 🤠 Cursando Análise e Desenvolvimento de Sistemas na IBMR
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
