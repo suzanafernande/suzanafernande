@@ -22,14 +22,13 @@ Olá! Eu sou a Suzana Fernandes e aqui esta o resumo de tudo o que estou aprende
 
 <div> 
   <a href="https://www.linkedin.com/in/suzana-fernandes-2b8574271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 </div>
 
 
-##
-(https://github.com/suzanafernande/suzanafernande/assets/131921031/6f85bee4-8b77-4a9a-9015-64b98c6c3672)
+    ##
+    ![ezgif com-resize](https://github.com/suzanafernande/suzanafernande/assets/131921031/06a74d16-8e94-45c0-ab2d-dcd71a7c5471)
 
-    
 
     
     
