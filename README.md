@@ -19,4 +19,8 @@ Olá! Eu sou a Suzana Fernandes e aqui esta o resumo de tudo o que estou aprende
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="30" widht="40"
     </div>
-  
+
+    
+    
+  ![ezgif com-gif-maker](https://github.com/suzanafernande/suzanafernande/assets/131921031/4232eb1e-860e-4236-818d-78349e363169)
+
