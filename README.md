@@ -23,7 +23,7 @@ Olá! Eu sou a Suzana Fernandes e aqui esta o resumo de tudo o que estou aprende
 
 
 ##
- <img align="center" alt="Caio-React" height="40" width="40" src=![ezgif com-resize(https://github.com/suzanafernande/suzanafernande/assets/131921031/6f85bee4-8b77-4a9a-9015-64b98c6c3672)
+ <img align="center" alt="Caio-HTML" height="30" width="40" src=(https://github.com/suzanafernande/suzanafernande/assets/131921031/6f85bee4-8b77-4a9a-9015-64b98c6c3672)
 
     
 
