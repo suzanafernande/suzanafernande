@@ -1,4 +1,4 @@
-Olá! Eu sou a Suzana Fernandes
+Olá! Eu sou a Suzana Fernandes e aqui esta o resumo de tudo o que estou aprendendo!
 
 - 🔭Back-end
 - 🌱 Estudando python e javascript na OneBitCode
